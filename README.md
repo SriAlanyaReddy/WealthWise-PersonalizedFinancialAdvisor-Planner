@@ -11,3 +11,5 @@ Utilizing a Retrieval-Augmented Generation (RAG) framework, an Agent framework, 
       - - Portfolio Performance Review: Regular assessments of investment performance.
         - - Educational Resources: Access to financial literacy materials and guides. Technical Details: Pre-trained Large Language Model (LLM): Leverages a pre-trained LLM to ensure high-quality, personalized responses and financial insights.
           - Retrieval-Augmented Generation (RAG) Framework: Employs the RAG framework to integrate real-time financial data retrieval with generative responses from the LLM, enhancing the depth and accuracy of financial advice. Agent Framework: Utilizes an agent-based architecture to handle user interactions, financial consultations, and integration with various system components. Additional Notes: Plan and implement features selectively keeping in mind time constraints. Modify/customize features so as to delights customer/user. Data collection will be interesting, consider generating synthetic data as an option.
+          - [Watch the demo video](https://youtu.be/eI0VxgYxIe0)
+
