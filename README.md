@@ -14,4 +14,5 @@ Utilizing a Retrieval-Augmented Generation (RAG) framework, an Agent framework, 
           - [Watch the demo video](https://youtu.be/eI0VxgYxIe0)
           - TECH STACK
           - Gen AI, Agent Framework, Web Technologies
+          - [Watch the link](https://chatgpt.com/share/6649ce49-e65e-4753-bccc-22cf427dc53a)
 
