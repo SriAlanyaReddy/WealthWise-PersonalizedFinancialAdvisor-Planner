@@ -58,7 +58,3 @@ WealthWise is an AI-powered financial management platform designed to help users
 - **Lack of Timely Updates**: Real-time notifications ensure users are aware of important financial changes or opportunities.
 - **Need for Financial Consultation**: The agent-based system enables interactive consultations, helping users understand complex financial concepts.
 
-## Getting Started
-1. Clone the repository.
-   ```bash
-   git clone <repository-url>
