@@ -1,0 +1,24 @@
+First roadblock->Thank you for your wonderful work, but I had some issues running python minigpt4_video_inference.py on ubuntu system： Loading LLAMA
+Traceback (most recent call last):
+File "/share/data02/wuyiqidata/MiniGPT4-video/minigpt4_video_inference.py", line 165, in
+model, vis_processor = init_model(args)
+File "/share/data02/wuyiqidata/MiniGPT4-video/minigpt4/common/eval_utils.py", line 63, in init_model
+model = model_cls.from_config(model_config).to('cuda:0')
+File "/share/data02/wuyiqidata/MiniGPT4-video/minigpt4/models/mini_gpt4_llama_v2.py", line 765, in from_config
+model = cls(
+File "/share/data02/wuyiqidata/MiniGPT4-video/minigpt4/models/mini_gpt4_llama_v2.py", line 125, in init
+self.llama_tokenizer = LlamaTokenizer.from_pretrained(llama_model,use_fast=False) #
+File "/share/data02/wuyiqidata/Anaconda3/envs/minigpt4_video/lib/python3.9/site-packages/transformers/tokenization_utils_base.py", line 2013, in from_pretrained
+raise EnvironmentError(
+OSError: Can't load tokenizer for 'meta-llama/Llama-2-7b-chat-hf'. If you were trying to load it from 'https://huggingface.co/models', make sure you don't have a local directory with the same name. Otherwise, make sure 'meta-llama/Llama-2-7b-chat-hf' is the correct path to a directory containing all relevant files for a LlamaTokenizer tokenizer.
+how can I fix it？
+
+@mylo19
+mylo19 commented on Jun 12
+Had the same issue. I followed the next steps and it was ok:
+
+Request access for Llama2, both from Hugging Face and from Meta. You just have to check in in the respective websites and you will be ok.
+Once you have been granted access, you can create an access token in your Hugging Face profile.
+This step was crucial for me. Make sure that the access token is "write". I initially had the default version (finegrained) and had the same error as you.
+Before running this model, login with your access token
+Rerun the model
