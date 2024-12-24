@@ -1,0 +1,131 @@
+[
+    {
+      "age": "60+",
+      "income": "high",
+      "employment_status": "retired",
+      "investment_horizon": "short-term",
+      "risk_tolerance": "low",
+      "recommendation": "Focus on low-risk investments like bonds, dividend-paying stocks, or stable blue-chip stocks. Preserve capital while generating steady income. Prioritize savings and ensure liquidity for future expenses."
+    },
+    {
+      "age": "60+",
+      "income": "low",
+      "employment_status": "retired",
+      "investment_horizon": "short-term",
+      "risk_tolerance": "low",
+      "recommendation": "Prioritize savings and avoid high-risk investments. Invest in safe options like government bonds, high-yield savings accounts, or stable blue-chip stocks with dividends to provide a steady income stream."
+    },
+    {
+      "age": "35-45",
+      "income": "high",
+      "employment_status": "employed",
+      "investment_horizon": "medium-term",
+      "risk_tolerance": "medium",
+      "recommendation": "Consider a balanced portfolio with a mix of growth stocks, dividend stocks, and bonds. Some exposure to sectors like technology or real estate may be beneficial. Look for long-term growth but ensure some stability in the portfolio."
+    },
+    {
+      "age": "35-45",
+      "income": "medium",
+      "employment_status": "employed",
+      "investment_horizon": "medium-term",
+      "risk_tolerance": "medium",
+      "recommendation": "Diversify across stocks, ETFs, and some bonds. Focus on stable companies and funds with potential for moderate growth. Keep some portion of savings in liquid assets to cover unexpected expenses."
+    },
+    {
+      "age": "25-35",
+      "income": "high",
+      "employment_status": "employed",
+      "investment_horizon": "long-term",
+      "risk_tolerance": "high",
+      "recommendation": "You can afford to take higher risks for higher returns. Focus on growth stocks, tech companies, and possibly venture capital or startups. Maximize growth with long-term investments but diversify across sectors to reduce risk."
+    },
+    {
+      "age": "25-35",
+      "income": "medium",
+      "employment_status": "employed",
+      "investment_horizon": "long-term",
+      "risk_tolerance": "medium",
+      "recommendation": "Invest in a diversified portfolio with a mix of growth stocks, ETFs, and some bonds. Look for sectors with high potential like technology or renewable energy. Keep emergency savings in a safe asset like cash or bonds."
+    },
+    {
+      "age": "25-35",
+      "income": "low",
+      "employment_status": "freelance",
+      "investment_horizon": "long-term",
+      "risk_tolerance": "high",
+      "recommendation": "Focus on high-growth stocks, including tech startups and emerging markets. Be aware of the volatility and make sure you have a safety net in the form of emergency savings before going too aggressive."
+    },
+    {
+      "age": "45-60",
+      "income": "high",
+      "employment_status": "employed",
+      "investment_horizon": "medium-term",
+      "risk_tolerance": "low",
+      "recommendation": "Opt for stable investments like dividend stocks, ETFs, and government bonds. Preserve capital but ensure steady income generation for future retirement or big expenses. Avoid volatile markets."
+    },
+    {
+      "age": "45-60",
+      "income": "low",
+      "employment_status": "employed",
+      "investment_horizon": "medium-term",
+      "risk_tolerance": "low",
+      "recommendation": "Focus on savings and risk-averse investments. Consider fixed-income securities like bonds, stable blue-chip stocks, and interest-bearing accounts. Protect your capital while generating modest returns."
+    },
+    {
+      "age": "18-25",
+      "income": "low",
+      "employment_status": "student",
+      "investment_horizon": "long-term",
+      "risk_tolerance": "high",
+      "recommendation": "Consider investing in high-growth assets such as individual stocks, cryptocurrencies, or index funds with higher potential returns. Diversify your portfolio but remember that long-term growth potential outweighs short-term volatility."
+    },
+    {
+      "age": "18-25",
+      "income": "medium",
+      "employment_status": "student/early career",
+      "investment_horizon": "long-term",
+      "risk_tolerance": "medium",
+      "recommendation": "Start with a diversified portfolio of stocks, index funds, and ETFs. Focus on sectors with high growth potential like tech, healthcare, and renewable energy, while keeping some stable investments in bonds."
+    },
+    {
+        "age": "60+",
+        "income": "high",
+        "employment_status": "retired",
+        "investment_horizon": "short-term",
+        "risk_tolerance": "low",
+        "recommendation": "Invest in stable dividend-paying stocks and fixed-income securities, such as government bonds and high-yield savings accounts. Since the investment horizon is short-term, avoid highly volatile assets and prioritize liquidity for unforeseen needs. Focus on generating a steady income to maintain lifestyle."
+      },
+      {
+        "age": "30-40",
+        "income": "medium",
+        "employment_status": "employed",
+        "investment_horizon": "medium-term",
+        "risk_tolerance": "medium",
+        "recommendation": "Consider a diversified portfolio that balances growth with stability. Invest in a mix of index funds, ETFs, and growth stocks. Some exposure to international markets and sectors like healthcare or green energy could offer long-term growth potential. Monitor the performance and adjust periodically."
+      },
+      {
+        "age": "25-35",
+        "income": "low",
+        "employment_status": "freelance",
+        "investment_horizon": "long-term",
+        "risk_tolerance": "high",
+        "recommendation": "With a long-term horizon, focus on aggressive growth. Consider investing in high-risk, high-return assets like individual tech stocks, emerging markets, and cryptocurrencies. However, maintain a small portion in safer investments for emergency funds. Be prepared for market volatility but capitalize on growth opportunities over time."
+      },
+      {
+        "age": "45-60",
+        "income": "medium",
+        "employment_status": "employed",
+        "investment_horizon": "long-term",
+        "risk_tolerance": "medium",
+        "recommendation": "Invest in a balanced mix of stocks and bonds, with a tilt toward sectors like real estate, utilities, and consumer staples for stability. Consider adding a portion of your portfolio in ESG (Environmental, Social, Governance) investments, as they are becoming increasingly popular and have growth potential. Maintain diversification to manage risk and position yourself for steady returns."
+      },
+      {
+        "age": "18-25",
+        "income": "medium",
+        "employment_status": "student/early career",
+        "investment_horizon": "long-term",
+        "risk_tolerance": "high",
+        "recommendation": "Focus on maximizing growth through aggressive investments in emerging tech, artificial intelligence, or green energy sectors. Explore ETFs that track innovation-driven sectors. Although risk is higher, the long-term horizon allows you to recover from market fluctuations. Begin with a small percentage in high-growth stocks and gradually expand as your knowledge and savings increase."
+      }
+  ]
+  
